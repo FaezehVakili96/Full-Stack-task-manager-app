@@ -82,6 +82,6 @@ With the rise of remote work and dispersed teams, there is a growing need for to
     - MongoDB for efficient and scalable data storage.
 
 
-The Cloud-Based Task Manager is an innovative solution that brings efficiency and organization to task management within teams. By harnessing the power of the MERN stack and modern frontend technologies, the platform provides a seamless experience for both administrators and users, fostering collaboration and productivity.
+The Cloud-Based Task Manager is an innovative solution that brings efficiency and organization to task management within teams. By harnessing the power of the MERN stack and modern frontend technologies, the platform provides a seamless experience for both administrators and users, fostering collaboration and productivity.This is a modified version of my full-stack project. Some proprietary components have been removed, but the core functionality remains intact.
 
 
